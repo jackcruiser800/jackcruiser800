@@ -3,8 +3,6 @@
 <img src="https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47f13p9lo04ml9qcfy4ciuzsb2x8ceupmfqvdmau8z&rid=giphy.gif&ct=g" 
 width=400px height=300px>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackcruiser800&label=Profile%20views&color=0e75b6&style=flat" alt="jackcruiser800" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackcruiser800" alt="jackcruiser800" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rama69334638" target="blank"><img src="https://img.shields.io/twitter/follow/rama69334638?logo=twitter&style=for-the-badge" alt="rama69334638" /></a> </p>
